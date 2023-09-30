@@ -3,7 +3,7 @@
 
 
 ## 🔗 Live Demo/Website Link
-[ Click Here ](https://aman4uas.github.io/Simon-Game/)
+[ Click Here ](https://shivanshumishra23.github.io/Simon-Game/)
 
 
 
